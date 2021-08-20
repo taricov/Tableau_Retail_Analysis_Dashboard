@@ -3,4 +3,6 @@
 
 I use Tableau to dashboard what comes out of the analysis done on the raw data, this dashboard is reflecting the business metrics and important indices that affect the operational workflow. <br/>
 
+![](Retail_Dashboard.gif)
+
 ![Retail Dashboard](Retail_dashboard.png)
